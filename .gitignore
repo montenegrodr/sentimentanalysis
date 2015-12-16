@@ -1,0 +1,14 @@
+ignore/
+*.class
+SentimentAnalysisTest/src/com/aylien/lib/Word2VectorDLLTest.java
+SentimentAnalysisTest/deploy
+SentimentAnalysisTest/bin
+SentimentAnalysisTest/log.txt
+SentimentAnalysisTest/resources/data/*.*
+Word2VecLoader/Debug/
+Word2VecLoader/Release/
+Word2VecLoader/x64/
+Word2VecLoader/Word2VecLoader.v12.suo
+SentimentAnalysisTest/.settings/org.eclipse.jdt.core.prefs
+SentimentAnalysisTest/.classpath
+SentimentAnalysisTest/.project
